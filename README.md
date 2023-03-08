@@ -13,9 +13,11 @@ Bandwidth: 1 Gbps for Download/100 Mbps for Upload
 
     sudo apt update && sudo apt upgrade -y
     
+    
 - Cài đặt Package bổ sung:
 
     sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential git make ncdu -y
+    
  
 - Cài đặt Golang:
 
